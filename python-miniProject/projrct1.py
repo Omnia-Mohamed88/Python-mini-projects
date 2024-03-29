@@ -13,7 +13,7 @@ while True:
         if 2<= players <=4:
             break
         else:
-            print("number of players must be from 2 to 4 ")
+            print("Number of players must be from 2 to 4 ")
     else:
         print("please enter valid input")
 
